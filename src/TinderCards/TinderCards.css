@@ -2,7 +2,7 @@
     position: relative;
     width: 600px;
     padding: 20px;
-    max-width: 85vw;
+    max-width: 80vw;
     height: 50vh;
     border-radius: 20px;
     background-size: cover;
@@ -17,6 +17,7 @@
     background-color: blue;
     padding: 7px;
     /* border-radius: 20px; */
+    border-end-end-radius: 20px;
 }
 .tinderCards__cardContainer{
     display: flex;

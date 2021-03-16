@@ -12,18 +12,20 @@
 )
 
 
-Visit the App Here [Tinder_clone]()
+
+Visit the App Here [Tinder_clone](https://tinder-clone-49a2d.web.app/)
 
 
 
 ### Deployment
 
-- [] create react app
-- [] firebase [create tinder-clone app]
-- [] config of firebase app 
-- [] clean up react app fresh installation 
-- [] remove the invisible margin from the app -> index.js  *{maring:0} :)
-- [] Desing the app
+- [X] create react app
+- [X] firebase [create tinder-clone app]
+- [X] config of firebase app 
+- [X] clean up react app fresh installation 
+- [X] remove the invisible margin from the app -> index.js  *{maring:0} :)
+- [X] Desing the app
+- [X] Chat page
 
 <p align="center"  >
   <img alt="appDesign" src="./appDesign.jpg" width="500" >
@@ -33,10 +35,9 @@ Visit the App Here [Tinder_clone]()
 ## Some Details 
 
  * Designing the app 
-- [] Header 
-- [] TinderCards 
-- [] Buttons below Cards 
-
+- [X] Header 
+- [X] TinderCards 
+- [X] Buttons below Cards 
 
 
 
@@ -60,3 +61,8 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 The page will reload if you make edits.\
 You will also see any lint errors in the console.
+
+## Just Me Coding 
+<p align="center"  >
+  <img alt="appDesign" src="./me.png"  >
+</p>
